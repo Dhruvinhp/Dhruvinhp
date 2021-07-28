@@ -150,7 +150,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/dhruvinhp"><img alt="Dhruvin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhruvinhp&custom_title=Dhruvin Prajapati's Contribution Graph&theme=react-dark" /></a>
+   <a href="https://github.com/dhruvinhp"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
