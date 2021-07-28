@@ -150,7 +150,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/dhruvinhp"><img alt="Dhruvin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhruvinhp&custom_title=Dhruvin%Prajapati's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/dhruvinhp"><img alt="Dhruvin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhruvinhp&custom_title=Dhruvin Prajapati's Contribution Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -171,9 +171,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhruvinhp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhruvinhp" /></a></p>
 <hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
-
-
-
-
