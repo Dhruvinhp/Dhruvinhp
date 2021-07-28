@@ -160,19 +160,19 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:dhruvinhprajapati@gmail.com">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="gmail" height="30" width="40" /></a>
+		<img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 	<a href="https://github.com/dhruvinhp">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dhruvinhp" height="30" width="40" /></a>
+		<img src="https://img.icons8.com/windows/32/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/dhruvin-prajapati-184147167/">
-		<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+		<img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
 	<a href="https://twitter.com/dhruvinhp" target="blank">
 		<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
-  <a href="https://instagram.com/_dp_official_">
-	  <img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  	<a href="https://instagram.com/_dp_official_">
+	  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 	<a href="https://www.youtube.com/channel/UCL_GDzi6UJam-us2Gxt-vsQ/featured">
-		<img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+		<img src="https://img.icons8.com/color/48/000000/youtube.png"/></a>
 	<a href="https://www.behance.net/dhruvinhp" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dhruvinhp" height="30" width="40" /></a>
+		<img src="https://img.icons8.com/windows/32/000000/behance.png"/></a>
 </p>
 
 <h3 align="left">Support:</h3>
