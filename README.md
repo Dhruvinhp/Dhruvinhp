@@ -10,7 +10,7 @@
 <a href="https://codepen.io/dhruvinhp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhruvinhp" height="30" width="40" /></a>
 <a href="https://twitter.com/dhruvinhp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvinhp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruvin-prajapati-184147167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvin-prajapati-184147167" height="30" width="40" /></a>
-<a href="https://instagram.com/_dp_oficial_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dp_oficial_" height="30" width="40" /></a>
+<a href="https://instagram.com/_dp_official_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dp_oficial_" height="30" width="40" /></a>
 <a href="https://www.behance.net/dhruvinhp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dhruvinhp" height="30" width="40" /></a>
 </p>
 
