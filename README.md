@@ -108,6 +108,6 @@
 		<img src="https://img.icons8.com/windows/40/000000/behance.png"/></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dhruvinhp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhruvinhp" /></a></p>
+<h3 align="left" align='center'>Support:</h3>
+<p align='center'><a href="https://www.buymeacoffee.com/dhruvinhp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhruvinhp" /></a></p>
 <hr/>
