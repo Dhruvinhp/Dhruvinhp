@@ -90,22 +90,22 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 <p align="center">
 	<a href="mailto:dhruvinhprajapati@gmail.com">
-		<img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+		<img src="https://img.icons8.com/fluent/50/000000/gmail-new.png"/></a>
 	<a href="https://github.com/dhruvinhp">
-		<img src="https://img.icons8.com/windows/32/000000/github.png"/></a>
+		<img src="https://img.icons8.com/windows/50/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/dhruvin-prajapati-184147167/">
-		<img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
+		<img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 	<a href="https://twitter.com/dhruvinhp" target="blank">
-		<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+		<img src="https://img.icons8.com/color/50/000000/twitter--v2.png"/></a>
   	<a href="https://instagram.com/_dp_official_">
-	  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+	  <img src="https://img.icons8.com/fluent/50/000000/instagram-new.png"/></a>
 	<a href="https://www.youtube.com/channel/UCL_GDzi6UJam-us2Gxt-vsQ/featured">
-		<img src="https://img.icons8.com/color/48/000000/youtube.png"/></a>
+		<img src="https://img.icons8.com/color/50/000000/youtube.png"/></a>
 	<a href="https://www.behance.net/dhruvinhp" target="blank">
-		<img src="https://img.icons8.com/windows/32/000000/behance.png"/></a>
+		<img src="https://img.icons8.com/windows/50/000000/behance.png"/></a>
 </p>
 
 <h3 align="left">Support:</h3>
