@@ -112,9 +112,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhruvinhp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhruvinhp" /></a></p>
 <hr/>
-
-  <td width="50%">
-      <h3>Currently playing</h3>
+<h3>Currently playing</h3>
+  <td width="50%">  
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/pjxuarryot50mnfhdov7kyrg4)
-
   </td>
