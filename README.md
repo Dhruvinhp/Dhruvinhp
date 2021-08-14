@@ -115,4 +115,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pjxuarryot50mnfhdov7kyrg4&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=pjxuarryot50mnfhdov7kyrg4&redirect=true)
 
-	</div>
+</div>
