@@ -115,6 +115,6 @@
 
 <br/>  
 <h3 align="left">Currently Listening:</h3>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=dhruvin&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kairav&cover_image=true&theme=default" /></div>  
 
 <br/> 
