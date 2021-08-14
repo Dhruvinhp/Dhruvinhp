@@ -114,7 +114,7 @@
 <hr/>
 
   <td width="50%">
-      
+      <h3>Currently playing</h3>
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/pjxuarryot50mnfhdov7kyrg4)
 
   </td>
