@@ -112,4 +112,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhruvinhp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhruvinhp" /></a></p>
 <hr/>
-<a>https://open.spotify.com/playlist/37i9dQZF1DWX83CujKHHOn?si=f335d41aa848449d</a>
