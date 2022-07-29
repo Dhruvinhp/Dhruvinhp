@@ -103,7 +103,7 @@
 		<img src="https://img.icons8.com/color/40/000000/linkedin.png"/></a>
 	<a href="https://twitter.com/dhruvinhp" target="blank">
 		<img src="https://img.icons8.com/color/40/000000/twitter--v2.png"/></a>
-  	<a href="https://instagram.com/_dhruvin_prajapati_">
+  	<a href="https://instagram.com/_dhruvin.prajapati_">
 	  <img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
 	<a href="https://www.youtube.com/channel/UCL_GDzi6UJam-us2Gxt-vsQ/featured">
 		<img src="https://img.icons8.com/color/40/000000/youtube.png"/></a>
