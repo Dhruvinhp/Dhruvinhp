@@ -11,6 +11,8 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvinhp&theme=algolia" alt="dhruvinhp"  /></p>
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ## 🛠️ My Skills
 <p>
