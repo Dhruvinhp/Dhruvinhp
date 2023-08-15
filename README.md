@@ -91,6 +91,9 @@
 
 </details>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhruvinhp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <br/>
 
 ## 🙋‍♂️ Let's Connect
