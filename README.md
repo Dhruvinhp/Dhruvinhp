@@ -86,14 +86,6 @@
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/dhruvinhp"><img alt="Dhruvin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhruvinhp&custom_title=Dhruvin%20Prajapati's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhruvinhp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
