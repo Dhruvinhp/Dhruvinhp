@@ -24,9 +24,6 @@ I'm a Software engineer, I like to Code, Design, Innovate and Experiment. I am a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhruvinhp&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruvinhp&label=Profile%20views&color=0e75b6&style=plastic" alt="dhruvinhp" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
